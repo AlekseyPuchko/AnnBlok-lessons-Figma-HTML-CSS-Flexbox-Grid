@@ -54,7 +54,7 @@ body {
     display: block;
     width: 80px;
     height: 80px;
-    background-image: url(../img/logo.svg);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/logo.svg");
     margin-right: 20px;
 }
 .header-info span {
@@ -92,7 +92,7 @@ hr {
     height: 1px;
 }
 .banner {
-    background-image: url(../img/bg.png);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -136,7 +136,6 @@ hr {
     padding: 34px 41px;
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
 }
 .bg-green-item {
     flex: 0 0 55%;
@@ -292,16 +291,16 @@ footer-info {
     background-color: rgb(155 216 156 / 0.1);
 }
 .social-youtube {
-    background-image: url(../img/youtube.svg);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/youtube.svg");
 }
 .social-vk {
-    background-image: url(../img/vk.svg);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/vk.svg");
 }
 .social-facebook {
-    background-image: url(../img/facebook.svg);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/facebook.svg");
 }
 .social-instagram {
-    background-image: url(../img/instagram.svg);
+    background-image: url("/AnnBlok-lessons-Figma-HTML-CSS-Flexbox-Grid/img/instagram.svg");
 }
 .footer-bottom {
     display: flex;
